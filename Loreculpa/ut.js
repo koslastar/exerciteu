@@ -1,0 +1,2 @@
+    return Object.freeze(n);
+    
